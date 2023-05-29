@@ -8,3 +8,5 @@
 neo475269/neo475269 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[Open AI HK Demo Center]([url](https://mshk-gps-openai-demo.github.io))
