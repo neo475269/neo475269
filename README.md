@@ -10,3 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [Open AI HK Demo Center](https://mshk-gps-openai-demo.github.io/)
+
+[Azure Open AI App Innovation Workshop](https://github.com/xuhaoruins/Azure-OpenAI-App-Innovation-Workshop/)
